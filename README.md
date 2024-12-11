@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon TypeError in Python. The function `function_with_uncommon_error` is designed to handle `ZeroDivisionError`, but an unexpected `TypeError` occurs when a non-numeric value is passed as input. The solution shows how to mitigate this error.
